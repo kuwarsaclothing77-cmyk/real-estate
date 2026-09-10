@@ -1,0 +1,11 @@
+<!-- Replace this entire file with your own SVG code to update the hero property image. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 680" role="img" aria-labelledby="title desc">
+  <title id="title">Luxury property plot preview</title><desc id="desc">An isometric villa on a landscaped plot.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7bf85"/><stop offset="1" stop-color="#8b7041"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="22" stdDeviation="18" flood-opacity=".35"/></filter></defs>
+  <ellipse cx="380" cy="520" rx="300" ry="104" fill="#09100d" opacity=".42"/>
+  <g filter="url(#s)"><path fill="url(#g)" d="m380 104 286 165-286 166L94 269z"/><path fill="#486b57" d="m380 170 228 131-228 132-228-132z"/><path fill="none" stroke="#d9c68e" stroke-width="5" d="m380 145 252 145-252 145-252-145z"/>
+  <path fill="#f1e9d7" d="m280 300 100-58 100 58v138l-100 58-100-58z"/><path fill="#bb9e68" d="m480 300 62-36v138l-62 36z"/><path fill="#d7bd82" d="m280 300 100-58 62 36-100 58z"/>
+  <path fill="#2a5043" d="M304 336h30v44h-30zm58-34h35v50h-35zm60 34h30v44h-30z"/><path fill="#784832" d="M363 382h35v84h-35z"/>
+  <g fill="#315e47"><circle cx="204" cy="345" r="39"/><circle cx="154" cy="385" r="28"/><circle cx="560" cy="332" r="37"/><circle cx="608" cy="373" r="27"/><circle cx="500" cy="477" r="33"/></g>
+  <g stroke="#264436" stroke-width="13"><path d="m204 345 15 85M154 385l13 64M560 332l-14 88M608 373l-12 68M500 477l-11 60"/></g></g>
+</svg>
